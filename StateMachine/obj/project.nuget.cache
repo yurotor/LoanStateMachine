@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JBRbzo7CIxbnvnknmOAr/ZWFya7PDywTw7wMBy3zCmPVTPiOnKUxqUJ0+7iWgi/RJVoORSsPJ6iADXH0DYegIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Source\\repos\\StateMachine\\StateMachine\\StateMachine.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ukeselman\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
